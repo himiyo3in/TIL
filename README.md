@@ -3,8 +3,8 @@ Coding tips (personal memo).
 
 # Custom Design
 ## Terminal
-### コマンドプロンプト
-- 
+### コマンドプロンプト(cmd)
+- [コマンドプロンプトの新しいカラースキームを設定する](http://www.misuzilla.org/Blog/2017/08/25/ConsoleColorTool)
 ### PowerShell
 - [PowerShell で綺麗な日本語フォント + カラーテーマを手に入れる](https://qiita.com/Maxfield_Walker/items/25caf517f9ffd80b6574)
 
