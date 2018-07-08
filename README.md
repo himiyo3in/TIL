@@ -14,3 +14,6 @@ Coding tips (personal memo).
 
 # Scraping
 - [urllib2からの接続にTorを使う](https://qiita.com/shiraishi_py/items/f5dae616d2deb10f4b12)
+
+# Azure
+- [Azure VM Linux(ubuntu)にリモート デスクトップ接続 (RDP) をする](https://qiita.com/hiro871_/items/0086ea75518ec754b90d)
