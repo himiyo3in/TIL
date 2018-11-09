@@ -1,4 +1,4 @@
-# Setup-mac 手順
+# setup-Mac 手順
 ## 設定
 - Setting
     - Mouse/Trackpad
