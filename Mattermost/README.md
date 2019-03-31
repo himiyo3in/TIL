@@ -10,6 +10,7 @@
 - 企業向けの機能を追加しなければ、<br>
   ユーザ数に料金が左右されることもなく、**ログ容量やコスト的にはお得**?（のはず...どこで動かすかにもよりそう）
   <img width="500" alt="screen shot 2018-11-09 at 14 24 22" src="https://github.com/himiyo3in/TIL/blob/master/Mattermost/Image/Slack%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83.png">
+  - 参考：[SlackとMattermostの比較、そしてMattermostを選んだ理由](https://www.tmp1024.com/server/use-slack-mattermost/)
 - 『ワークスペース』『チャンネル』以外に、<br>
   **『チーム』** という概念がある （**最大人数20人?**...だとしたらここがネックかも）
   <img width="750" alt="screen shot 2018-11-09 at 14 24 22" src="https://github.com/himiyo3in/TIL/blob/master/Mattermost/Image/MacSS.png">
