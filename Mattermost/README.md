@@ -16,7 +16,7 @@
 - GCPを利用する場合、(無料枠の範囲内だとしても)VMを立てる際に**クレジットカードの登録が必要**<br>
 - **日本語対応済み**
 - **iOS/Android/Windows/Mac対応済み**
-  <img width="1680" alt="screen shot 2018-11-09 at 14 24 22" src="***画像***">
+  - [公式: Mattermost Mobile & Desktop Apps](https://mattermost.com/download/#mattermostApps)
 ---
 
 ## ■ Reference
