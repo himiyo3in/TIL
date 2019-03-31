@@ -18,6 +18,8 @@
 - **日本語対応済み**
 - **iOS/Android/Windows/Mac対応済み**
   - [【公式】: Mattermost Mobile & Desktop Apps](https://mattermost.com/download/#mattermostApps)
+- Rocket.Chatなど、他のサービスとの比較はしてないので悪しからず
+  - 参考:[独自のSlack風チャット環境を構築できる「Rocket.Chat」や「Mattermost」](https://knowledge.sakura.ad.jp/5933/)
 ---
 
 ## ■ Reference
