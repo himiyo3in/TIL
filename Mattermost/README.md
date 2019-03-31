@@ -16,11 +16,11 @@
 - GCPを利用する場合、(無料枠の範囲内だとしても)VMを立てる際に**クレジットカードの登録が必要**<br>
 - **日本語対応済み**
 - **iOS/Android/Windows/Mac対応済み**
-  - [公式: Mattermost Mobile & Desktop Apps](https://mattermost.com/download/#mattermostApps)
+  - [【公式】: Mattermost Mobile & Desktop Apps](https://mattermost.com/download/#mattermostApps)
 ---
 
 ## ■ Reference
 ### ○ 公式
-- [公式: Mattermost](https://mattermost.com/)
+- [【公式】: Mattermost](https://mattermost.com/)
 ### ○ GCPを利用した詳細手順
 - [GCP無料枠を使ってたったの30分でOSS版Slack「Mattermost」を構築する【SSL化も対応】](https://www.karelie.net/mattermost-gce-ssl/)
