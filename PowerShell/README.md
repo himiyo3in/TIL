@@ -3,8 +3,8 @@
 ### ○ カスタムコマンドの登録
 #### ◇ Profileファイルの作成
 - 確認 `Test-Path $profile`
-- 無い場合 `New-Item -path $profile -type file -force`
-- ある場合 `notepad $profile`
+  - 無い場合 `New-Item -path $profile -type file -force`
+  - ある場合 `notepad $profile`
 
 #### ◇ Profileファイル
 
