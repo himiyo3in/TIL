@@ -5,11 +5,13 @@
 
 ```
 $ sudo apt-get update
-$ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+$ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 $ sudo apt-get install -y nodejs
 ```
 
-~※下記のコマンドではエラー発生した~
+=====
+
+※ 以下のコマンドではエラー発生した
 ```
 $ sudo apt-get install -y nodejs npm
 $ sudo npm cache clean
@@ -26,5 +28,5 @@ $ sudo n stable
 ---
 
 ## ■ Reference
-- [Qiita：『』]()
-
+- [Qiita：『Raspberry Pi 3 Model Bに最新のNode.jsとnpmをインストールする[公式準拠]』](https://qiita.com/Avocado/items/512f64428545bf0d94ba)
+- [NodeSource Node.js > Installation instructions](https://github.com/nodesource/distributions/blob/master/README.md)
