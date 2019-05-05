@@ -12,7 +12,7 @@
 
 - Wi-Fi環境
 
-#### ◇ セットアップ手順
+### ○ OSセットアップ手順
 1. [Raspberrypi.org](https://www.raspberrypi.org/downloads/noobs/)から、NOOBSをダウンロードする
     > NOOBS = New Out Of the Box Software. インストーラ型のOS導入方法
 
@@ -22,6 +22,24 @@
 3. SDカードをラズパイ本体に挿入し、電源ケーブルを刺して起動する
 4. 流れに従いOS(Raspbian)をインストールし、起動する
 
+
+
+
+
+
+### ○ 画面キャプチャ用ソフトの導入
+- 上の画面キャプチャはksnapshotと呼ばれるソフトを用いて撮影した([参考](https://arakoki70.com/?p=807))
+    > sudo apt-get install ksnapshot
+
+### ○ 日本語入力を行う準備
+1. 下記を実行し、再起動する
+```
+$ sudo apt-get update
+$ sudo apt-get install fcitx-mozc
+```
+2. メニューより **[設定] > [Fcitx設定]** を選択
+3. 
+
 ---
 
 ## ■ Reference
@@ -29,6 +47,3 @@
 
 ---
 
-## ■ おまけ
-1. 上記の画面キャプチャはksnapshotと呼ばれるソフトを用いて撮影した([参考](https://arakoki70.com/?p=807))
-    > sudo apt-get install ksnapshot
