@@ -24,7 +24,7 @@ $ sudo n stable
 
 ### ○ Puppeteerの導入
 1. [Canonical Chromium Builds](https://launchpad.net/~canonical-chromium-builds/+archive/ubuntu/stage/+build/14482955)にアクセスし、下図のファイルをダウンロード
-<img src="https://github.com/himiyo3in/TIL/blob/master/RaspberryPi/Image/img02.png" width="500px">
+    <img src="https://github.com/himiyo3in/TIL/blob/master/RaspberryPi/Image/img02.png" width="500px">
 
 2. 下記コマンドを実行し、インストールする
     ```
