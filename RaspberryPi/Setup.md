@@ -15,7 +15,7 @@
 1. [Raspberrypi.org](https://www.raspberrypi.org/downloads/noobs/)から、NOOBSをダウンロードする
     > NOOBS = New Out Of the Box Software. インストーラ型のOS導入方法
 
-    <img src="https://github.com/himiyo3in/FlutterTest/wiki/images/1.png" width="300px">
+    <img src="https://github.com/himiyo3in/TIL/blob/master/RaspberryPi/Image/img01.png" width="300px">
 
 2. 
 
