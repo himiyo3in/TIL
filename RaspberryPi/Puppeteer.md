@@ -22,11 +22,18 @@ $ sudo n stable
 
 
 
+### ○ Puppeteerの導入
+1. [Canonical Chromium Builds](https://launchpad.net/~canonical-chromium-builds/+archive/ubuntu/stage/+build/14482955)にアクセスし、下図のファイルをダウンロード
+<img src="https://github.com/himiyo3in/TIL/blob/master/RaspberryPi/Image/img02.png" width="500px">
 
-#### ◇ 
+2. 
+
+
+
 
 ---
 
 ## ■ Reference
 - [Qiita：『Raspberry Pi 3 Model Bに最新のNode.jsとnpmをインストールする[公式準拠]』](https://qiita.com/Avocado/items/512f64428545bf0d94ba)
 - [NodeSource Node.js > Installation instructions](https://github.com/nodesource/distributions/blob/master/README.md)
+- [Qiita：『Raspberry Piでpuppeteerを動かす方法』](https://qiita.com/kwbt/items/420b3d02456fe24307ec)
