@@ -31,14 +31,16 @@ $ npm install puppeteer
 
 ===
 
-1. [Canonical Chromium Builds](https://launchpad.net/~canonical-chromium-builds/+archive/ubuntu/stage/+build/14482955)にアクセスし、下図のファイルをダウンロード
+※ 下記を実行すると、逆にchromiumがバグる
+
+~~1. [Canonical Chromium Builds](https://launchpad.net/~canonical-chromium-builds/+archive/ubuntu/stage/+build/14482955)にアクセスし、下図のファイルをダウンロード~~
     <img src="https://github.com/himiyo3in/TIL/blob/master/RaspberryPi/Image/img02.png" width="500px">
 
-2. 下記コマンドを実行し、インストールする
-    ```
+~~2. 下記コマンドを実行し、インストールする~~
+    ~~```
     $ sudo dpkg -i chromium-browser_65.0.3325.181-0ubuntu0.14.04.1_armhf.deb
     $ sudo dpkg -i chromium-codecs-ffmpeg_65.0.3325.181-0ubuntu0.14.04.1_armhf.deb
-    ```
+    ```~~
 
 
 
